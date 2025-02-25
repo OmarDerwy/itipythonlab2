@@ -15,8 +15,7 @@ def mobileValidation():
     else:
         print('number verified')
         return mobileNumber
-
-        
+    
 def passwordValidation():
     password = input('please input password ya user: ')
     problems = []
@@ -89,4 +88,5 @@ def register(userList:list):
     if userDict['mobilePhone'] == -1: return -1
     print('user has been validated successfully. user is being added to the database...')
     userList.append(userDict)
+    return userList
 
