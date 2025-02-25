@@ -1,3 +1,5 @@
 here is a video:
 
-![videooo](Recording 2025-02-25 094434.mp4)
+
+
+[Watch the video](Recording%202025-02-25%20094434.mp4)
