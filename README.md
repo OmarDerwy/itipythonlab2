@@ -1,3 +1,4 @@
 here is a video:
 
-![watch here](https://youtube.com/?watch=1w9cCnVCosg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1w9cCnVCosg/0.jpg)](https://youtu.be/1w9cCnVCosg)
+
