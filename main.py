@@ -28,7 +28,7 @@ def main(userLogged, userList, projectList, userIn):
                 
 
 
-
+# random comment to test something
 if __name__ == '__main__':
     userIn = True
     projectList = [{
